@@ -1,4 +1,4 @@
-# How to Automate Youtube and Blog Content with LangChain & OpenAI: A Step-by-step Guide
+# How to Automate Youtube and Blog Content with LangChain & OpenAI: A Step-by-Step Guide
 
 This repo contains the code for AI-powered Marketing Assistant that uses LangChain and OpenAI to streamline your content creation process. Using LangChain you will create a SequentialChain that consists of a series of chains  - a blog post chain, a YouTube script chain, and a YouTube visuals chain.
 
