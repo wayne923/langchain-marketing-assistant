@@ -16,9 +16,8 @@ https://medium.com/@wayne923/fc6ed231ffa6
 
 The code consists of an app.py file that is used to set up and run the AI-powered marketing assistant.
 
-The app.py includes steps on:
+The app.py includes:
 * Setting up the environment
-* Acquiring the OpenAI API key
 * Building Blocks of LangChain
 * Mastering the Basics of Chains in LangChain
 * Integrating the assistant with Streamlit to build a Web App
